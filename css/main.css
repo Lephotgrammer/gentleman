@@ -1,0 +1,175 @@
+*{
+	font-family: Serif;
+}
+.header{
+	background-color: black;
+	padding: 10px;
+}
+.the{
+	font-family: Georgia;
+	color: white;
+	font-size: 30px;
+	text-align: center;
+}
+.header li{
+	display: inline;
+	color: #B7B7B7;
+	font-size: 14px;
+	padding: 10px;
+	text-align: center;
+}
+.header ul{
+	padding-top: 10px;
+}
+.home{
+	color: #A22371;
+	font-size: 14px;
+	display: inline;
+}
+.centro img{
+	padding-top: 30px;
+}
+.letthe{
+	font-size: 26px;
+	padding: 10px;
+	color: #5B5B5B;
+}
+.letblue{
+	font-size: 12px;
+	padding: 10px;
+	color: #A2A2A2;
+}
+.letras{
+	padding-top: 30px;
+}
+.botread{
+	background-color: #A5A5A5;
+	color: white;
+	padding: 10px;
+	border-radius: 50px;
+	text-align: center;
+	width: 80px;
+	height: 30px;
+	font-size: 10px;
+}
+hr{
+	width: 100%;
+	height: 1px;
+	color: #D4D4D4;
+	margin: 30px 0px 30px 0px;
+}
+.letlat{
+	text-transform: uppercase;
+	color: #878787;
+}
+.latest li, a{
+	display: inline;
+	color: #B7B7B7;
+	font-size: 14px;
+	padding-right: 3px;
+	text-align: center;
+	text-decoration: none;
+}
+.latest ul{
+	padding-top: 10px;
+}
+
+.images img{
+	padding: 20px 20px 0px 0px;
+}
+.letcapuccino{
+	color: #878787;
+}
+.letmark{
+	padding: 10px 10px 10px 0px;
+	color: #878787;
+	font-size: 10px;
+}
+i{
+	padding-left: 10px;
+	color: #C7C7C7;
+}
+.botload{
+	background-color: #5E5E5E;
+	color: white;
+	padding: 7px;
+	border-radius: 50px;
+	text-align: center;
+	width: 100px;
+	height: 30px;
+	font-size: 15px;
+	margin: 50px 0px 50px 340px;
+}
+.twitter{
+	font-size: 50px;
+	color: #ABABAB;
+}
+.botfollow{
+	background-color: #5E5E5E;
+	color: #ABABAB;
+	padding: 1px;
+	border-radius: 40px;
+	text-align: center;
+	width: 40px;
+	height: 10px;
+	font-size: 8px;
+	margin-bottom: 20px;
+}
+.letmy{
+	color: #7B7B7B;
+}
+.asd{
+	color: #CE3A79;
+}
+footer{
+	background-color: black;
+	color: #9D9D9D;
+	padding: 20px;
+}
+footer li{
+	font-size: 10px;
+	list-style: none;
+}
+.letweb{
+	color: #B80F40;
+}
+footer h4{
+	padding-bottom: 10px;
+}
+footer p{
+	color: #D9D9D9;
+}
+.footer2{
+	font-size: 12px;
+}
+.letcopy{
+	padding: 0px 0px 10px 0px; 
+	text-align: center;
+	font-size: 10px;
+}
+.botfollo{
+	background-color: #B80F40;
+	color: #ABABAB;
+	padding: 1px;
+	border-radius: 40px;
+	text-align: center;
+	width: 40px;
+	height: 10px;
+	font-size: 8px;
+	margin-bottom: 20px;
+}
+.letalpha{
+	color: #B1B1B1;
+}
+.letwe{
+	font-style: italic;
+}
+.padding{
+	padding-top: 10px;
+}
+.bottom{
+	padding-bottom: 10px;
+}
+input{
+	margin-bottom: 10px;
+}
